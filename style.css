@@ -19,10 +19,17 @@ body{
       background: rgb(72,209,204);
       padding-bottom: 80px;
       padding-top: 80px;
-  
   }
+.chamada{
+   background: rgb (4, 126, 207)
+   padding-bottom: 80px;
+   padding-top: 80px;
+   display: flex;
+   justify-content: center;
 
-  .chamda-texto{
+}
+
+   .chamda-texto{
      margin-left: 5%;
   }
   h1{
