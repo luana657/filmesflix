@@ -63,10 +63,10 @@ body{
 
  .categoria-videos img:hover{
       opacity: 1,0;
-      border: 3px solid rgb(131, 13, 13);
+      border: 3px solid rgb(0, 0, 0);
  }
 
  .categoria h2{
-      color: rgba(255, 244, 88, 0.349);
+      color: rgba(88, 155, 255, 0.349);
 
  }
